@@ -10,3 +10,8 @@ wheels/
 .venv
 
 profiles.yml
+
+logs/
+.vscode/
+target/
+dbt_packages/
